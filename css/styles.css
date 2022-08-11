@@ -186,7 +186,7 @@ body {
 }
 
 .homecontainer {
-    background-image: url(/images/homepageliquid.png);
+    background-image: url(images/homepageliquid.png);
     background-size: 1920px;
     background-position: 100px;
     background-repeat: no-repeat;
@@ -251,7 +251,7 @@ margin-inline: auto;
     margin-top: 500px;
     padding-top: 500px;
     padding-bottom: 400px;
-    background-image: url(/images/homepageliquid2.png);
+    background-image: url(images/homepageliquid2.png);
     background-size: cover;
     background-blend-mode: color-burn;
     background-color: #00C7B0;
@@ -266,7 +266,7 @@ margin-inline: auto;
 }
 
 .photographyheader {
-    background-image: url(/images/photographybg.png);
+    background-image: url(images/photographybg.png);
     background-blend-mode: difference;
     background-color:#00C7B0 ;
     width: 100%;
@@ -347,7 +347,7 @@ textarea {
 
 /* CONTACT CSS */
 .contactcontainer {
-    background-image: url(/images/contactbg.png);
+    background-image: url(images/contactbg.png);
     background-blend-mode: color-dodge;
     background-size: cover;
     background-color: #000D12;
@@ -371,7 +371,7 @@ textarea {
 }
 
 .graphicdesignheader {
-    background-image: url(/images/graphicdesignbg.png);
+    background-image: url(images/graphicdesignbg.png);
     background-size: cover;
     background-color: teal;
     background-blend-mode: overlay;
@@ -387,7 +387,7 @@ textarea {
 }
 
 .webheader {
-    background-image: url(/images/webcover.png);
+    background-image: url(images/webcover.png);
     background-color: #00C7B0;
     background-blend-mode: color-burn;
     background-size: cover;
@@ -446,7 +446,7 @@ textarea {
     }
 
     .photographyheader{
-        background-image: url(/images/photographybgmobile.png);
+        background-image: url(photographybgmobile.png);
         background-size: cover;
         background-position: 25%;
         background-color: #00C7B0;
@@ -454,7 +454,7 @@ textarea {
     }
 
     .webheader {
-        background-image: url(/images/webbgmobile.png);
+        background-image: url(images/webbgmobile.png);
         background-color: #00C7B0;
         background-blend-mode: color-burn;
         background-size: cover;
