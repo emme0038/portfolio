@@ -197,7 +197,7 @@ li {
 *********************/
 
 .homecontainer {
-    background-image: url(images/homepageliquid.png);
+    background-image: url(../images/homepageliquid.png);
     background-size: 1920px;
     background-position: 100px;
     background-repeat: no-repeat;
@@ -267,7 +267,7 @@ div.main {
     margin-top: 500px;
     padding-top: 500px;
     padding-bottom: 400px;
-    background-image: url(images/homepageliquid2.jpeg);
+    background-image: url(../images/homepageliquid2.jpeg);
     background-size: cover;
     background-blend-mode: soft-light;
     background-color: #000D12;
@@ -292,7 +292,7 @@ PORTFOLIO STYLING
 /* SECTION BANNERS */
 
 .photographyheader {
-    background-image: url(images/photographybg.png);
+    background-image: url(../images/photographybg.png);
     background-blend-mode: screen;
     background-color: #000D12;
     width: 100%;
@@ -307,7 +307,7 @@ PORTFOLIO STYLING
 
 
 .graphicdesignheader {
-    background-image: url(images/graphicdesignbg.png);
+    background-image: url(../images/graphicdesignbg.png);
     background-size: cover;
     background-color: teal;
     background-blend-mode: overlay;
@@ -325,7 +325,7 @@ PORTFOLIO STYLING
 
 
 .webheader {
-    background-image: url(images/webcover.png);
+    background-image: url(../images/webcover.png);
     background-color: #000D12;
     background-blend-mode: color-dodge;
     background-size: cover;
@@ -407,7 +407,7 @@ ABOUT STYLING
 CONTACT STYLING
 ***************/
 .contactcontainer {
-    background-image: url(images/contactbg.png);
+    background-image: url(../images/contactbg.png);
     background-blend-mode: color-dodge;
     background-size: 60%;
     background-color: #000D12;
@@ -519,7 +519,7 @@ MOBILE MEDIA QUERIES
     }
 
     .photographyheader {
-        background-image: url(images/photographybgmobile.png);
+        background-image: url(../images/photographybgmobile.png);
         background-size: cover;
         background-position: 25%;
         background-color: #000D12;
@@ -527,7 +527,7 @@ MOBILE MEDIA QUERIES
     }
 
     .webheader {
-        background-image: url(images/webbgmobile.png);
+        background-image: url(../images/webbgmobile.png);
         background-color: #00C7B0;
         background-blend-mode: color-burn;
         background-size: cover;
